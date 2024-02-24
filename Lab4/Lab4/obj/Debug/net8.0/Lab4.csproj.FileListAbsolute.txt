@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Lab4\Lab4\bin\Debug\net8.0\Lab4.exe
+C:\Users\hp\Desktop\Lab4\Lab4\bin\Debug\net8.0\Lab4.deps.json
+C:\Users\hp\Desktop\Lab4\Lab4\bin\Debug\net8.0\Lab4.runtimeconfig.json
+C:\Users\hp\Desktop\Lab4\Lab4\bin\Debug\net8.0\Lab4.dll
+C:\Users\hp\Desktop\Lab4\Lab4\bin\Debug\net8.0\Lab4.pdb
+C:\Users\hp\Desktop\Lab4\Lab4\obj\Debug\net8.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Lab4\Lab4\obj\Debug\net8.0\Lab4.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Lab4\Lab4\obj\Debug\net8.0\Lab4.AssemblyInfo.cs
+C:\Users\hp\Desktop\Lab4\Lab4\obj\Debug\net8.0\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Lab4\Lab4\obj\Debug\net8.0\Lab4.dll
+C:\Users\hp\Desktop\Lab4\Lab4\obj\Debug\net8.0\refint\Lab4.dll
+C:\Users\hp\Desktop\Lab4\Lab4\obj\Debug\net8.0\Lab4.pdb
+C:\Users\hp\Desktop\Lab4\Lab4\obj\Debug\net8.0\Lab4.genruntimeconfig.cache
+C:\Users\hp\Desktop\Lab4\Lab4\obj\Debug\net8.0\ref\Lab4.dll

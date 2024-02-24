@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\midterm\midterm\bin\Debug\net8.0\midterm.exe
+C:\Users\hp\Desktop\midterm\midterm\bin\Debug\net8.0\midterm.deps.json
+C:\Users\hp\Desktop\midterm\midterm\bin\Debug\net8.0\midterm.runtimeconfig.json
+C:\Users\hp\Desktop\midterm\midterm\bin\Debug\net8.0\midterm.dll
+C:\Users\hp\Desktop\midterm\midterm\bin\Debug\net8.0\midterm.pdb
+C:\Users\hp\Desktop\midterm\midterm\obj\Debug\net8.0\midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\midterm\midterm\obj\Debug\net8.0\midterm.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\midterm\midterm\obj\Debug\net8.0\midterm.AssemblyInfo.cs
+C:\Users\hp\Desktop\midterm\midterm\obj\Debug\net8.0\midterm.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\midterm\midterm\obj\Debug\net8.0\midterm.dll
+C:\Users\hp\Desktop\midterm\midterm\obj\Debug\net8.0\refint\midterm.dll
+C:\Users\hp\Desktop\midterm\midterm\obj\Debug\net8.0\midterm.pdb
+C:\Users\hp\Desktop\midterm\midterm\obj\Debug\net8.0\midterm.genruntimeconfig.cache
+C:\Users\hp\Desktop\midterm\midterm\obj\Debug\net8.0\ref\midterm.dll
