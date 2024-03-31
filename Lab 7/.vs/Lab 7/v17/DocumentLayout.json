@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\str\\Lab 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4902CC-A4CE-4816-AC0B-2A8B52AF0A2C}|Lab 7\\Lab 7.csproj|C:\\Users\\hp\\Desktop\\str\\Lab 7\\lab 7\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4902CC-A4CE-4816-AC0B-2A8B52AF0A2C}|Lab 7\\Lab 7.csproj|solutionrelative:lab 7\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4902CC-A4CE-4816-AC0B-2A8B52AF0A2C}|Lab 7\\Lab 7.csproj|C:\\Users\\hp\\Desktop\\str\\Lab 7\\lab 7\\skillspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4902CC-A4CE-4816-AC0B-2A8B52AF0A2C}|Lab 7\\Lab 7.csproj|solutionrelative:lab 7\\skillspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4902CC-A4CE-4816-AC0B-2A8B52AF0A2C}|Lab 7\\Lab 7.csproj|C:\\Users\\hp\\Desktop\\str\\Lab 7\\lab 7\\educationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4902CC-A4CE-4816-AC0B-2A8B52AF0A2C}|Lab 7\\Lab 7.csproj|solutionrelative:lab 7\\educationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4902CC-A4CE-4816-AC0B-2A8B52AF0A2C}|Lab 7\\Lab 7.csproj|C:\\Users\\hp\\Desktop\\str\\Lab 7\\lab 7\\experiencepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4902CC-A4CE-4816-AC0B-2A8B52AF0A2C}|Lab 7\\Lab 7.csproj|solutionrelative:lab 7\\experiencepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4902CC-A4CE-4816-AC0B-2A8B52AF0A2C}|Lab 7\\Lab 7.csproj|c:\\users\\hp\\desktop\\str\\lab 7\\lab 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4902CC-A4CE-4816-AC0B-2A8B52AF0A2C}|Lab 7\\Lab 7.csproj|solutionrelative:lab 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4902CC-A4CE-4816-AC0B-2A8B52AF0A2C}|Lab 7\\Lab 7.csproj|C:\\Users\\hp\\Desktop\\str\\Lab 7\\lab 7\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4902CC-A4CE-4816-AC0B-2A8B52AF0A2C}|Lab 7\\Lab 7.csproj|solutionrelative:lab 7\\resume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4902CC-A4CE-4816-AC0B-2A8B52AF0A2C}|Lab 7\\Lab 7.csproj|C:\\Users\\hp\\Desktop\\str\\Lab 7\\lab 7\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4902CC-A4CE-4816-AC0B-2A8B52AF0A2C}|Lab 7\\Lab 7.csproj|solutionrelative:lab 7\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4902CC-A4CE-4816-AC0B-2A8B52AF0A2C}|Lab 7\\Lab 7.csproj|C:\\Users\\hp\\Desktop\\str\\Lab 7\\lab 7\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4902CC-A4CE-4816-AC0B-2A8B52AF0A2C}|Lab 7\\Lab 7.csproj|solutionrelative:lab 7\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\str\\Lab 7\\Lab 7\\Page.cs",
+              "RelativeDocumentMoniker": "Lab 7\\Page.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\str\\Lab 7\\Lab 7\\Page.cs",
+              "RelativeToolTip": "Lab 7\\Page.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:24:48.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExperiencePage.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\str\\Lab 7\\Lab 7\\ExperiencePage.cs",
+              "RelativeDocumentMoniker": "Lab 7\\ExperiencePage.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\str\\Lab 7\\Lab 7\\ExperiencePage.cs",
+              "RelativeToolTip": "Lab 7\\ExperiencePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T23:31:02.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EducationPage.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\str\\Lab 7\\Lab 7\\EducationPage.cs",
+              "RelativeDocumentMoniker": "Lab 7\\EducationPage.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\str\\Lab 7\\Lab 7\\EducationPage.cs",
+              "RelativeToolTip": "Lab 7\\EducationPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T23:30:41.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SkillsPage.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\str\\Lab 7\\Lab 7\\SkillsPage.cs",
+              "RelativeDocumentMoniker": "Lab 7\\SkillsPage.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\str\\Lab 7\\Lab 7\\SkillsPage.cs",
+              "RelativeToolTip": "Lab 7\\SkillsPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T23:30:18.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\str\\Lab 7\\Lab 7\\Document.cs",
+              "RelativeDocumentMoniker": "Lab 7\\Document.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\str\\Lab 7\\Lab 7\\Document.cs",
+              "RelativeToolTip": "Lab 7\\Document.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:42:33.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\str\\Lab 7\\Lab 7\\Report.cs",
+              "RelativeDocumentMoniker": "Lab 7\\Report.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\str\\Lab 7\\Lab 7\\Report.cs",
+              "RelativeToolTip": "Lab 7\\Report.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T23:28:47.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resume.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\str\\Lab 7\\Lab 7\\Resume.cs",
+              "RelativeDocumentMoniker": "Lab 7\\Resume.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\str\\Lab 7\\Lab 7\\Resume.cs",
+              "RelativeToolTip": "Lab 7\\Resume.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T23:36:55.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\str\\Lab 7\\Lab 7\\Program.cs",
+              "RelativeDocumentMoniker": "Lab 7\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\str\\Lab 7\\Lab 7\\Program.cs",
+              "RelativeToolTip": "Lab 7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:24:18.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
