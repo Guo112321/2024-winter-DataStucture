@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Lab9\Lab9\bin\Debug\net8.0\Lab9.exe
+C:\Users\hp\Desktop\Lab9\Lab9\bin\Debug\net8.0\Lab9.deps.json
+C:\Users\hp\Desktop\Lab9\Lab9\bin\Debug\net8.0\Lab9.runtimeconfig.json
+C:\Users\hp\Desktop\Lab9\Lab9\bin\Debug\net8.0\Lab9.dll
+C:\Users\hp\Desktop\Lab9\Lab9\bin\Debug\net8.0\Lab9.pdb
+C:\Users\hp\Desktop\Lab9\Lab9\obj\Debug\net8.0\Lab9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Lab9\Lab9\obj\Debug\net8.0\Lab9.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Lab9\Lab9\obj\Debug\net8.0\Lab9.AssemblyInfo.cs
+C:\Users\hp\Desktop\Lab9\Lab9\obj\Debug\net8.0\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Lab9\Lab9\obj\Debug\net8.0\Lab9.dll
+C:\Users\hp\Desktop\Lab9\Lab9\obj\Debug\net8.0\refint\Lab9.dll
+C:\Users\hp\Desktop\Lab9\Lab9\obj\Debug\net8.0\Lab9.pdb
+C:\Users\hp\Desktop\Lab9\Lab9\obj\Debug\net8.0\Lab9.genruntimeconfig.cache
+C:\Users\hp\Desktop\Lab9\Lab9\obj\Debug\net8.0\ref\Lab9.dll

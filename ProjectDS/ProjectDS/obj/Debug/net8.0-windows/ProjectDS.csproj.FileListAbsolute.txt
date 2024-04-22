@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\ProjectDS\ProjectDS\bin\Debug\net8.0-windows\ProjectDS.exe
+C:\Users\hp\Desktop\ProjectDS\ProjectDS\bin\Debug\net8.0-windows\ProjectDS.deps.json
+C:\Users\hp\Desktop\ProjectDS\ProjectDS\bin\Debug\net8.0-windows\ProjectDS.runtimeconfig.json
+C:\Users\hp\Desktop\ProjectDS\ProjectDS\bin\Debug\net8.0-windows\ProjectDS.dll
+C:\Users\hp\Desktop\ProjectDS\ProjectDS\bin\Debug\net8.0-windows\ProjectDS.pdb
+C:\Users\hp\Desktop\ProjectDS\ProjectDS\obj\Debug\net8.0-windows\ProjectDS.Form1.resources
+C:\Users\hp\Desktop\ProjectDS\ProjectDS\obj\Debug\net8.0-windows\ProjectDS.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\ProjectDS\ProjectDS\obj\Debug\net8.0-windows\ProjectDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\ProjectDS\ProjectDS\obj\Debug\net8.0-windows\ProjectDS.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ProjectDS\ProjectDS\obj\Debug\net8.0-windows\ProjectDS.AssemblyInfo.cs
+C:\Users\hp\Desktop\ProjectDS\ProjectDS\obj\Debug\net8.0-windows\ProjectDS.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ProjectDS\ProjectDS\obj\Debug\net8.0-windows\ProjectDS.dll
+C:\Users\hp\Desktop\ProjectDS\ProjectDS\obj\Debug\net8.0-windows\refint\ProjectDS.dll
+C:\Users\hp\Desktop\ProjectDS\ProjectDS\obj\Debug\net8.0-windows\ProjectDS.pdb
+C:\Users\hp\Desktop\ProjectDS\ProjectDS\obj\Debug\net8.0-windows\ProjectDS.genruntimeconfig.cache
+C:\Users\hp\Desktop\ProjectDS\ProjectDS\obj\Debug\net8.0-windows\ref\ProjectDS.dll

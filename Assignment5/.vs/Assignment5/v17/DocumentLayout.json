@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Assignment5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E05E021-6586-4161-84A8-996A8D2AD959}|Assignment5\\Assignment5.csproj|c:\\users\\hp\\desktop\\assignment5\\assignment5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E05E021-6586-4161-84A8-996A8D2AD959}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E05E021-6586-4161-84A8-996A8D2AD959}|Assignment5\\Assignment5.csproj|c:\\users\\hp\\desktop\\assignment5\\assignment5\\cloudstorageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E05E021-6586-4161-84A8-996A8D2AD959}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\cloudstorageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E05E021-6586-4161-84A8-996A8D2AD959}|Assignment5\\Assignment5.csproj|c:\\users\\hp\\desktop\\assignment5\\assignment5\\localstorageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E05E021-6586-4161-84A8-996A8D2AD959}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\localstorageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E05E021-6586-4161-84A8-996A8D2AD959}|Assignment5\\Assignment5.csproj|c:\\users\\hp\\desktop\\assignment5\\assignment5\\compressiondecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E05E021-6586-4161-84A8-996A8D2AD959}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\compressiondecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E05E021-6586-4161-84A8-996A8D2AD959}|Assignment5\\Assignment5.csproj|c:\\users\\hp\\desktop\\assignment5\\assignment5\\encryptiondecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E05E021-6586-4161-84A8-996A8D2AD959}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\encryptiondecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E05E021-6586-4161-84A8-996A8D2AD959}|Assignment5\\Assignment5.csproj|c:\\users\\hp\\desktop\\assignment5\\assignment5\\directory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E05E021-6586-4161-84A8-996A8D2AD959}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\directory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E05E021-6586-4161-84A8-996A8D2AD959}|Assignment5\\Assignment5.csproj|c:\\users\\hp\\desktop\\assignment5\\assignment5\\filecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E05E021-6586-4161-84A8-996A8D2AD959}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\filecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E05E021-6586-4161-84A8-996A8D2AD959}|Assignment5\\Assignment5.csproj|c:\\users\\hp\\desktop\\assignment5\\assignment5\\ifilecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E05E021-6586-4161-84A8-996A8D2AD959}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\ifilecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E05E021-6586-4161-84A8-996A8D2AD959}|Assignment5\\Assignment5.csproj|c:\\users\\hp\\desktop\\assignment5\\assignment5\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E05E021-6586-4161-84A8-996A8D2AD959}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E05E021-6586-4161-84A8-996A8D2AD959}|Assignment5\\Assignment5.csproj|c:\\users\\hp\\desktop\\assignment5\\assignment5\\storageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E05E021-6586-4161-84A8-996A8D2AD959}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\storageprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CloudStorageProvider.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Assignment5\\Assignment5\\CloudStorageProvider.cs",
+              "RelativeDocumentMoniker": "Assignment5\\CloudStorageProvider.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Assignment5\\Assignment5\\CloudStorageProvider.cs",
+              "RelativeToolTip": "Assignment5\\CloudStorageProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:31:36.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocalStorageProvider.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Assignment5\\Assignment5\\LocalStorageProvider.cs",
+              "RelativeDocumentMoniker": "Assignment5\\LocalStorageProvider.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Assignment5\\Assignment5\\LocalStorageProvider.cs",
+              "RelativeToolTip": "Assignment5\\LocalStorageProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:30:05.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompressionDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Assignment5\\Assignment5\\CompressionDecorator.cs",
+              "RelativeDocumentMoniker": "Assignment5\\CompressionDecorator.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Assignment5\\Assignment5\\CompressionDecorator.cs",
+              "RelativeToolTip": "Assignment5\\CompressionDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:27:55.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EncryptionDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Assignment5\\Assignment5\\EncryptionDecorator.cs",
+              "RelativeDocumentMoniker": "Assignment5\\EncryptionDecorator.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Assignment5\\Assignment5\\EncryptionDecorator.cs",
+              "RelativeToolTip": "Assignment5\\EncryptionDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:25:38.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Directory.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Assignment5\\Assignment5\\Directory.cs",
+              "RelativeDocumentMoniker": "Assignment5\\Directory.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Assignment5\\Assignment5\\Directory.cs",
+              "RelativeToolTip": "Assignment5\\Directory.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAiwCkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:18:00.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Assignment5\\Assignment5\\File.cs",
+              "RelativeDocumentMoniker": "Assignment5\\File.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Assignment5\\Assignment5\\File.cs",
+              "RelativeToolTip": "Assignment5\\File.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:14:35.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Assignment5\\Assignment5\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment5\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Assignment5\\Assignment5\\Program.cs",
+              "RelativeToolTip": "Assignment5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:08:11.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StorageProvider.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Assignment5\\Assignment5\\StorageProvider.cs",
+              "RelativeDocumentMoniker": "Assignment5\\StorageProvider.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Assignment5\\Assignment5\\StorageProvider.cs",
+              "RelativeToolTip": "Assignment5\\StorageProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:13:55.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileComponent.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Assignment5\\Assignment5\\FileComponent.cs",
+              "RelativeDocumentMoniker": "Assignment5\\FileComponent.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Assignment5\\Assignment5\\FileComponent.cs",
+              "RelativeToolTip": "Assignment5\\FileComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:11:27.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFileComponent.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Assignment5\\Assignment5\\IFileComponent.cs",
+              "RelativeDocumentMoniker": "Assignment5\\IFileComponent.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Assignment5\\Assignment5\\IFileComponent.cs",
+              "RelativeToolTip": "Assignment5\\IFileComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:09:00.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
